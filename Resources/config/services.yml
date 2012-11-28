@@ -1,0 +1,7 @@
+parameters:
+#    nanaweb_ec.example.class: Nanaweb\EcBundle\Example
+
+services:
+#    nanaweb_ec.example:
+#        class: %nanaweb_ec.example.class%
+#        arguments: [@service_id, "plain_value", %parameter%]

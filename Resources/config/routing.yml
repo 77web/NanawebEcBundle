@@ -1,0 +1,3 @@
+nanaweb_ec_homepage:
+    pattern:  /
+    defaults: { _controller: NanawebEcBundle:Default:index }
